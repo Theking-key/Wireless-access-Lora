@@ -1,0 +1,31 @@
+eventdriver\delay.o: ..\user\radio\delay.c
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+eventdriver\delay.o: ../Core/Inc/stm32f1xx_hal_conf.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+eventdriver\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+eventdriver\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+eventdriver\delay.o: ../Drivers/CMSIS/Include/core_cm3.h
+eventdriver\delay.o: D:\sflot APP\keil4\keil\ARM\ARMCC\Bin\..\include\stdint.h
+eventdriver\delay.o: ../Drivers/CMSIS/Include/cmsis_version.h
+eventdriver\delay.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+eventdriver\delay.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+eventdriver\delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+eventdriver\delay.o: D:\sflot APP\keil4\keil\ARM\ARMCC\Bin\..\include\stddef.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+eventdriver\delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+eventdriver\delay.o: ..\user\radio\delay.h
